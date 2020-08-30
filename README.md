@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was based on an online course by James Q Quick, available at [https://scrimba.com/course/greactmovie](https://scrimba.com/course/greactmovie)
+
+Differentials:
+
+- I used create-react-app and TypeScript;
+- Instead of filtering out movies without a poster, I used an image placeholder for not available posters (credits to [placeholder.com](https://via.placeholder.com/185x278.png?text=Poster%20not%20available);
+- better responsiveness for big screens;
+
 
 ## Available Scripts
 
